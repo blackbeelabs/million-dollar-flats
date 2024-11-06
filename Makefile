@@ -11,6 +11,8 @@ setup_env:
 	pip install numpy==1.26.3 # as of 1 Jan 2024
 	pip install matplotlib==3.8.3 # as of 1 Jan 2024
 	pip install seaborn==0.13.1 # as of 1 Jan 2024
+	pip install pyarrow==17.0.0 # as of 1 Nov 2024
+	pip install scipy==1.12.0 # as of 1 Jan 2024
 	pip install notebook==6.5.7 # Freeze this version
 
 
