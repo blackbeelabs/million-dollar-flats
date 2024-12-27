@@ -11,6 +11,9 @@ setup_env:
 	pip install pendulum==3.0.0 # as of 1 Jan 2024
 	pip install numpy==1.26.3 # as of 1 Jan 2024
 	pip install scipy==1.12.0 # as of 1 Jan 2024
+	pip install statsmodels==0.14.1 # as of 1 Jan 2024
+	pip install statsmodels==0.14.1 # as of 1 Jan 2024
+	pip install pandas==2.1.4 # as of 1 Jan 2024
 	pip install requests==2.28.2 # as of 1 Jan 2024
 	pip install notebook==6.5.7 # Freeze this version - you need the notebook to run the ingestion code.
 
